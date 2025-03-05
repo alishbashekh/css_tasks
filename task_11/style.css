@@ -1,0 +1,9 @@
+
+.dotted {border-left-style: dotted;}
+.dashed {border-left-style: dashed;}
+.solid {border-left-style: solid;}
+.double {border-left-style: double;}
+h1.groove {border-left-style: groove;}
+h2.ridge {border-left-style: ridge;}
+h3.inset {border-left-style: inset;}
+h4.outset {border-left-style: outset;}
