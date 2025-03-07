@@ -1,0 +1,7 @@
+div {
+    background-color: lightgrey; /* Light grey background */
+    width: 300px;                /* Set the width of the div to 300px */
+    border: 15px solid green;    /* Green border with 15px width */
+    padding: 50px;               /* 50px padding inside the div */
+    margin: 20px;                /* 20px margin around the div */
+}
